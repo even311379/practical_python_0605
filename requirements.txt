@@ -1,0 +1,8 @@
+numpy
+pandas
+graphviz
+pandas_profiling
+seaborn
+folium
+plotly
+bokeh
